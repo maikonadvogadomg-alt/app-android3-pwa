@@ -1,2 +1,2 @@
-# app-android3-pwa
-PWA publicado pelo APK Builder
+# app-android3
+Projeto Android — SK Code Editor
